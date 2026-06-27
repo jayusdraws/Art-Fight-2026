@@ -1,0 +1,135 @@
+/* ===== COMEDY ===== */
+
+#wrapper{
+    background-color:#FFF6D6;
+}
+
+.artfight-nav,
+.profile-header-wrapper,
+.card{
+    background:#FFC83D !important;
+}
+
+.panel-heading{
+    background:#FF8C42 !important;
+    color:white!important;
+}
+
+.profile-description,
+.table.table-bordered.table-card,
+.card-body.panel-body{
+    background:rgba(255,249,225,.90);
+    border:4px solid #FFC83D;
+}
+
+.nav-tabs .nav-item{
+    background:#FFD86E!important;
+}
+
+.card-header a,
+.card-header small,
+.card-header .small,
+.panel-heading a,
+.panel-heading small{
+    color:#5A3900 !important;
+}
+
+.badge,
+.label{
+    background:#FFB84D !important;
+    color:#5A3900 !important;
+}
+
+.bg-light{
+    background:#FFE6A3 !important;
+}
+
+.text-muted{
+    color:#5A3900 !important;
+}
+
+.list-group-item{
+    background:#FFF2C2 !important;
+}
+
+.nav-link.active{
+    background:#FF8C42!important;
+    color:white!important;
+}
+
+a{
+    color:#D86B00;
+}
+
+.btn-primary,
+.btn-success,
+.btn-warning,
+.btn-danger{
+    background:#FF8C42;
+    color:white;
+}
+
+.profile-description p,
+.profile-description div,
+.comment .panel-body,
+.comment .panel-body p,
+.comment .panel-body div{
+    color:#5A3900 !important;
+}
+
+.table.table-bordered.table-card td,
+.table.table-bordered.table-card th{
+    color:#5A3900 !important;
+}
+
+a{
+    color:#D86B00 !important;
+}
+
+a:hover{
+    color:#A85700 !important;
+}
+
+.table.table-bordered.table-card th,
+.table.table-bordered.table-card td:first-child{
+    background:#FFEFB8 !important;
+    color:#7A4B00 !important;
+}
+
+.card-footer.panel-footer.text-right{
+    background:#FFD86E !important;
+    color:#7A4B00 !important;
+}
+
+.card-footer.panel-footer.text-right a{
+    color:#7A4B00 !important;
+}
+
+.profile-header-wrapper,
+.profile-header-wrapper p,
+.profile-header-wrapper .h5,
+.profile-header-wrapper .text-muted,
+.profile-header-wrapper a{
+    color:#6E3E00 !important;
+}
+
+.media,
+.media-body,
+.media-heading,
+.media-left,
+.media-right{
+    background:transparent !important;
+}
+
+.media-body a,
+.media-heading a,
+.media-body span,
+.media-heading span{
+    background:transparent !important;
+    box-shadow:none !important;
+}
+
+.media-body,
+.media-heading{
+    color:#5A3900 !important;
+}
