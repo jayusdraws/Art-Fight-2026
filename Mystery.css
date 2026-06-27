@@ -1,0 +1,44 @@
+/* ===== MYSTERY ===== */
+
+#wrapper{
+    background-color:#12080A;
+}
+
+.artfight-nav,
+.profile-header-wrapper,
+.card{
+    background:#4A121B!important;
+}
+
+.panel-heading{
+    background:#B22234!important;
+    color:white!important;
+}
+
+.profile-description,
+.table.table-bordered.table-card,
+.card-body.panel-body{
+    background:rgba(35,12,16,.92);
+    border:4px solid #D8485D;
+}
+
+.nav-tabs .nav-item{
+    background:#5C1822!important;
+}
+
+.nav-link.active{
+    background:#E45A6D!important;
+    color:#25090D!important;
+}
+
+a{
+    color:#FF97A7;
+}
+
+.btn-primary,
+.btn-success,
+.btn-warning,
+.btn-danger{
+    background:#B22234;
+    color:white;
+}
